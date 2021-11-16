@@ -46,6 +46,9 @@ matrix = np.zeros(n_col)
 
 print(matrix)
 
+"""noise generation"""
+
+
 """
 tests
 """
